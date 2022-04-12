@@ -1,8 +1,12 @@
+
 # Taller Technologies Challenge
  Taller Technologies Challenge  for Internal Interview
  
  ## Description
-* SQL   (A folder with numerated Scripts)
+
+ * C#  (`01 - Sum of Two`)
+	 * A CSharp Console app with his related Unit Tests
+* SQL   (`02 - SQL Script Database Folder`)
 	* This needs to be executed in order from 01 to 07 where is:
 		* 01 - DataBase Creation ()
 		* 02 - Table Persons Schema Creation
@@ -11,7 +15,7 @@
 		* 05 - Index Creation
 		* 06 - Insertion for Initial Data (Bootstraping)
 		* 07 - Query to Get the date Requested in the email for the interview
-	* 
+
  ## Getting Started
  ### Dependencies
  * SQL Server 2019 + 
@@ -20,7 +24,7 @@
  ### Executing program
  * Clone this repository and run separately
 
-> **Important:** SQL Scripts needs to be runned on local or remote Microsoft SQL Server Instance
+> **Important:** SQL Scripts need to be run on local or remote Microsoft SQL Server Instance
 
  ## Authors
 **Alfredo Severo**  [@portal7](https://twitter.com/alfredosevero)
