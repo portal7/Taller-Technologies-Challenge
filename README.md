@@ -19,6 +19,7 @@
  ## Getting Started
  ### Dependencies
  * SQL Server 2019 + 
+ * .NET Core 5.00 +
  ### Installing
  * This challenge hasn't installation (sorry)
  ### Executing program
